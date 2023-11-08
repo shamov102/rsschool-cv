@@ -1,4 +1,4 @@
-# Ildar Shamsutdinov 
+# Ildar Shamsutdinov ![avatar](/rsschool-cv/cv-photo.jpg)
 Junior Frontend Developer 
 
 ---
